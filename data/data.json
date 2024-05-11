@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "One Plus 12R",
+      "price": 40000,
+      "image": "/assets/oneplus12r.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil nam debitis assumenda ipsa? Ratione incidunt odit, doloribus eligendi repellat cum optio neque omnis voluptatum aperiam ipsam ut, architecto ullam culpa?"
+    },
+    {
+      "name": "Apple Iphone 15",
+      "price": 81000,
+      "image": "/assets/Apple iPhone 13.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil nam debitis assumenda ipsa? Ratione incidunt odit, doloribus eligendi repellat cum optio neque omnis voluptatum aperiam ipsam ut, architecto ullam culpa?",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Google Pixel 8",
+      "price": 70000,
+      "image": "/assets/googlepixel.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil nam debitis assumenda ipsa? Ratione incidunt odit, doloribus eligendi repellat cum optio neque omnis voluptatum aperiam ipsam ut, architecto ullam culpa?"
+    },
+    {
+      "id": "4",
+      "name": "Vivo x100",
+      "price": 85000,
+      "image": "/assets/x100.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil nam debitis assumenda ipsa? Ratione incidunt odit, doloribus eligendi repellat cum optio neque omnis voluptatum aperiam ipsam ut, architecto ullam culpa?"
+    },
+    {
+      "id": "5",
+      "name": "Nothing Phone 2",
+      "price": 48000,
+      "image": "/assets/nothing2.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil nam debitis assumenda ipsa? Ratione incidunt odit, doloribus eligendi repellat cum optio neque omnis voluptatum aperiam ipsam ut, architecto ullam culpa?"
+    },
+    {
+      "id": "6",
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": 125000,
+      "image": "/assets/s24ultra.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil nam debitis assumenda ipsa? Ratione incidunt odit, doloribus eligendi repellat cum optio neque omnis voluptatum aperiam ipsam ut, architecto ullam culpa?"
+    },
+    {
+      "name": "Oppo Reno 10 Pro+",
+      "price": 65000,
+      "image": "/assets/Apple iPhone 13.jpg",
+      "description": "New Camera Phone with 125x Zoom",
+      "id": "4d63"
+    }
+  ]
+}

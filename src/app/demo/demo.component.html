@@ -1,0 +1,12 @@
+<!-- <p>demo works!</p> -->
+<input type="text" [(ngModel)]="name">
+<br>
+<input type="number" [(ngModel)]="age" placeholder="Enter age">
+<br><br>
+<button (click)="unsubscribeA()">Unsubscribe A</button>
+<br><br>
+<button (click)="unsubscribeB()">Unsubscribe B</button>
+<br><br>
+<div *ngFor="let c of myColors$ | async">
+    {{ c }}
+</div>
